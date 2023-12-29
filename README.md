@@ -1,7 +1,7 @@
 # Kuka-youBot-Manipulation
 Author: Courtney Smith
 
-
+https://github.com/courtSmith77/Kuka-youBot-Manipulation/assets/144190404/b14d377d-21ba-49b3-aca3-ee5dd667de68
 
 Calculates the desired dynamics and controls for the mobile manipulation of the KUKA youBot to complete a pick and place task in CoppeliaSim.
 
